@@ -142,6 +142,7 @@
     <ClCompile Include="RandomAcessFile.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="database.h" />
     <ClInclude Include="persona1.h" />
     <ClInclude Include="student.h" />
   </ItemGroup>
